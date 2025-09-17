@@ -60,7 +60,3 @@ Haleema
 
 ```
 
----
-
-Would you like me to also add **badges** (like HTML, CSS, JS logos at the top) so your README looks more professional on GitHub?
-```
